@@ -21,11 +21,13 @@ namespace CalculadoraPorConsola
             resta = numero1 - numero2;
             multi = numero1 * numero2;
             divi = numero1 / numero2;
+            modu = numero1 % numero2;
 
             Console.WriteLine("Suma=  "+ suma);
             Console.WriteLine("Resta=  " + resta);
             Console.WriteLine("Multi=  " + multi);
             Console.WriteLine("Divi=  " + divi);
+            Console.WriteLine("Modulo= " + modu);
             Console.ReadLine();
         }
     }
