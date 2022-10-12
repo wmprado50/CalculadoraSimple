@@ -27,7 +27,7 @@ namespace CalculadoraPorConsola
             Console.WriteLine("Resta=  " + resta);
             Console.WriteLine("Multi=  " + multi);
             Console.WriteLine("Divi=  " + divi);
-            Console.WriteLine("Modulo= "+ modu);
+            Console.WriteLine("Modulo= " + modu);
             Console.ReadLine();
         }
     }
