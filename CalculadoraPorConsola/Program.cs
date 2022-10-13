@@ -29,6 +29,7 @@ namespace CalculadoraPorConsola
             Console.WriteLine("Divi=  " + divi);
             Console.WriteLine("Modulo= " + modu);
             Console.WriteLine("El programa ha finalizado");
+            Console.WriteLine("ESTA ES UNA PRUEBA DE MODIFICACION");
             Console.ReadLine();
         }
     }
